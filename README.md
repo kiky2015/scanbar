@@ -8,6 +8,4 @@ yima.addResultListener(MainActivity.this);
 
 yima.scanBarcode()
 
-manifest文件中加
-
-<activity android:name="com.yima.camera.CaptureActivity" />
+manifest文件中加 <activity android:name="com.yima.camera.CaptureActivity" />
